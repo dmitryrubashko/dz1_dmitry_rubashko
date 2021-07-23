@@ -226,21 +226,117 @@ font-weight: bold;
 }
 
 .block4 {
-    margin: -95px auto;
-    padding: 0 15px;
-    width: 1440px;
+    width: 1440px;    
     height: 640px;
-    background-color: linear-gradient(#e66465, #9198e5);
-    border-radius: 6px;
-    position: relative;
+    background: linear-gradient(to right,#E3EEED 50%,#214E41 50% 100%);
+    margin: 120px auto 0px auto;
 }
 
+.par5 {
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 0.05px;
+    text-transform: uppercase;
+    color: #214E41;
+    padding-top: 120px;
+    padding-left: 120px;
+}
 
+.custom {
+    padding-top: 20px;
+    width: 1400px;
+    height: 360px;
+    margin: 20px auto 0px auto;
+}
 
+.custom1 {
+    padding-left: 100px;
+    max-width: 600px;
+    display: inline-block;
+}
 
+.par6 {
+    width: 600px;
+    height: 60px;
+    margin: -5px 0px 0px 0px;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 42px;
+    color: #214E41;
+}
 
+.par7 {
+    margin: 0px 0px 0px 0px;
+    width: 385px;
+    height: 42px;
+    font-family: Roboto;
+    font-size: 32px;
+    line-height: 42px;
+    color: #43806C;
+}
 
+.par8 {
+    margin: 18px 0px 0px 0px;
+    width: 317px;
+    height: 42px;
+    font-family: Roboto;
+    font-size: 32px;
+    line-height: 42px;
+    color: #43806C;
+}
 
+.par9 {
+    margin: 18px 0px 0px 0px;
+    width: 356px;
+    height: 42px;
+    font-family: Roboto;
+    font-size: 32px;
+    line-height: 42px;
+    color: #43806C;
+}
 
+.par10 {
+    margin: 18px 0px 0px 0px;
+    width: 554px;
+    height: 60px;
+    font-family: Roboto;
+    font-size: 32px;
+    line-height: 42px;
+    color: #43806C;
+}
 
+.par11 {
+    margin: 0px 0px 0px 0px;
+    width: 600px;
+    height: 60px;
+    font-family: Roboto;
+    font-size: 32px;
+    line-height: 42px;
+    color: #43806C;
+}
 
+.custom2 {
+    float: right;
+    margin-top: -30px;
+    position: relative;
+    padding-left: -100px;
+    display: inline-block;
+    max-width: 500px;
+    right: 100px;
+}
+
+.par12 {
+    font-size: 20px;
+    line-height: 34px;
+    letter-spacing: 0.02px;
+    color: #FFFFFF;
+}
+
+.par13 {
+    margin-top: 34px;
+    font-size: 20px;
+    line-height: 34px;
+    letter-spacing: 0.02px;
+    color: #FFFFFF;
+}
