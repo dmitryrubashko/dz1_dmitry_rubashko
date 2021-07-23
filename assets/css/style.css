@@ -1,0 +1,246 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Raleway', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+    color: #214E41;
+    background-color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;  
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1230px;
+    padding: 0 15px;
+    height: 90px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-list {
+    display: flex;
+    list-style: none;
+    margin: 40px;
+}
+
+.nav-item {
+    margin: 0 20px;
+}
+
+.nav-link {
+    font-weight: bold;
+    font-size: 14px; 
+    color: #214E41;
+    text-decoration: none;
+}
+
+.request {
+    text-decoration: none;
+    display: inline-block;
+    background: #43806C;
+    border-radius: 6px;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.block1 {
+    margin: 0 auto;
+    max-width: 1470px;
+    width: 1440px;
+    padding: 0 15px;
+    height: 720px;
+    background-image: url("../imgs/pic1.jpg");
+    background-position: center;
+}
+
+h1 {
+    max-width: 636px;
+    max-height: 138px;
+    font-size: 36px;
+    line-height: 46px;
+    color: #214E41;
+    padding-top: 161px;
+    padding-left: 120px;
+    font-family: Roboto;
+}
+
+.paragraph1 {
+    max-width: 636px;
+    max-height: 138px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #214E41;
+    padding-top: 161px;
+    padding-left: 120px;
+    font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+}
+
+.logo {
+    margin-left: -45px;
+}
+
+.block2 {
+    margin: -95px auto;
+    width: 1200px;
+    padding: 0 15px;
+    height: 171px;
+    background-color: #fff;
+    border-radius: 6px;
+    position: relative;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+}
+
+.pic1 {
+    max-width: 356px;
+    display: inline-block;
+}
+
+.heading_1 {
+    margin-left: 86px;
+    margin-top: -49px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #214E41;
+}
+
+.heading_2 {
+    margin-left: 86px;
+    margin-top: -11px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #214E41;
+    max-width: 276px;
+}
+
+.pic2 {
+    max-width: 356px;
+    display: inline-block;
+    margin-left: 16px;
+}
+
+.pic3 {
+    max-width: 356px;
+    display: inline-block;
+    margin-left: 16px;
+}
+
+.umbrella {
+    padding-left: 35px;
+    padding-top: 57px;
+    padding-bottom: 69;
+}
+
+.checkmark {
+    padding-left: 30px;
+    padding-top: 57px;
+    padding-bottom: 69;
+}
+.folder {
+    padding-left: 17px;
+    padding-top: 57px;
+    padding-bottom: 69;
+}
+
+.block3 {
+    width: 1200px;    
+    height: 432px;
+    background-color: #fff;
+    margin: 176px auto 0px auto;
+}
+
+.paragraph2 {
+    position: relative;
+    width: 538px;
+    height: 358px;
+    padding-left: 60px;
+    padding-top: 22px;
+    display: inline-block;
+}
+
+.par1 {
+    width: 95px;
+    height: 20px;
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 0.05px;
+    text-transform: uppercase;
+    color: #43806C;
+}
+
+.par2 {
+    width: 478px;
+    height: 138px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 46px;
+    color: #214E41;
+    padding-bottom: 20px;
+}
+
+.par3 {
+    padding-bottom: 34px;
+    width: 477px;
+    height: 90px;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0.02px;
+    color: #757575;
+}
+
+.par4 {
+    padding-bottom: 26px;
+    width: 156px;
+    height: 18px;
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: bold;
+    letter-spacing: 0.02px;
+    color: #214E41;
+}
+
+.line {
+    border-top: 2px solid #214E41;
+    width: 107px;
+    margin-top: -12px;
+  }
+
+.schedule {
+    display: inline-block;
+    vertical-align: top;
+  }
+
+.img1 {
+    margin-left: 138px;
+}
+
+.block4 {
+    margin: -95px auto;
+    padding: 0 15px;
+    width: 1440px;
+    height: 640px;
+    background-color: linear-gradient(#e66465, #9198e5);
+    border-radius: 6px;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
