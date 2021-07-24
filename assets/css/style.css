@@ -303,6 +303,83 @@ h1 {
     right: 100px;
 }
 
-.statistics {
-    
+.plans {
+    display: flex;
+    margin-bottom: 0px;
+}
+
+.plan-title {
+    width: 50%;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 0.05px;
+    text-transform: uppercase;
+    color: #43806C;
+    margin-bottom: 0px;
+}
+
+.plan-text {
+    width: 90%;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 46px;
+    color: #214E41;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.plan-subtext {
+    width: 90%;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0.02px;
+    color: #757575;
+    margin-top: 34px;
+}
+
+.plans-statistics {
+    margin-top: 105px;
+}
+
+.people {
+    vertical-align: top;
+    width: 50%;
+    text-align: right;
+  }
+
+  .statistics {
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.orangeletter {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 78px;
+    color: #F0A446;
+    margin-right: -15px;
+}
+
+.stats {
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 22px;
+    letter-spacing: 0.02px;
+    color: #214E41;
+}
+
+.statsblock {
+    width: 300px;  
+}
+
+.stats.widht1 {
+    width: 250px;
+}
+
+.stats.widht2 {
+    width: 220px;
 }
