@@ -202,16 +202,6 @@ h1 {
     margin: 120px auto 0px auto;
 }
 
-.brings {
-    font-size: 13px;
-    line-height: 20px;
-    letter-spacing: 0.05px;
-    text-transform: uppercase;
-    color: #214E41;
-    padding-top: 120px;
-    padding-left: 120px;
-}
-
 .custom {
     padding-top: 20px;
     width: 1400px;
@@ -225,75 +215,14 @@ h1 {
     display: inline-block;
 }
 
-.par6 {
-    width: 600px;
-    height: 60px;
-    margin: -5px 0px 0px 0px;
-    font-family: Roboto;
-    font-weight: bold;
-    font-size: 32px;
-    line-height: 42px;
-    color: #214E41;
-}
-
-.par7 {
-    margin: 0px 0px 0px 0px;
-    width: 385px;
-    height: 42px;
-    font-family: Roboto;
-    font-size: 32px;
-    line-height: 42px;
-    color: #43806C;
-}
-
-.par8 {
-    margin: 18px 0px 0px 0px;
-    width: 317px;
-    height: 42px;
-    font-family: Roboto;
-    font-size: 32px;
-    line-height: 42px;
-    color: #43806C;
-}
-
-.par9 {
-    margin: 18px 0px 0px 0px;
-    width: 356px;
-    height: 42px;
-    font-family: Roboto;
-    font-size: 32px;
-    line-height: 42px;
-    color: #43806C;
-}
-
-.par10 {
-    margin: 18px 0px 0px 0px;
-    width: 554px;
-    height: 60px;
-    font-family: Roboto;
-    font-size: 32px;
-    line-height: 42px;
-    color: #43806C;
-}
-
-.par11 {
-    margin: 0px 0px 0px 0px;
-    width: 600px;
-    height: 60px;
-    font-family: Roboto;
-    font-size: 32px;
-    line-height: 42px;
-    color: #43806C;
-}
-
-.par12 {
+.aboutplans {
     font-size: 20px;
     line-height: 34px;
     letter-spacing: 0.02px;
     color: #FFFFFF;
 }
 
-.par13 {
+.aboutemployers {
     margin-top: 34px;
     font-size: 20px;
     line-height: 34px;
@@ -341,4 +270,37 @@ h1 {
     display: inline-block;
     max-width: 500px;
     right: 100px;
+}
+
+.brings {
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 0.05px;
+    text-transform: uppercase;
+    color: #214E41;
+    padding-top: 120px;
+    padding-left: 60px;
+}
+
+.bring-main {
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 42px;
+    color: #214E41;
+}
+
+.bring-secondary {
+    list-style-type: none;
+    font-size: 32px;
+    line-height: 42px;
+    color: #43806C;
+    margin-left: 0px;
+    margin-top: 18px;
+}
+
+.allbrings {
+    margin-top: -20px;
+    margin-left: px;
+    width: 50%;
 }
