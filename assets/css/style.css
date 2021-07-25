@@ -403,6 +403,7 @@ h1 {
     position: relative;
     width: 45%;
     margin-left: 203px;
+    margin-bottom: 0px;
 }
 
 .experience-title {
@@ -445,4 +446,65 @@ h1 {
     border-bottom: 2px solid;
     padding-bottom: 14px;
     position: absolute;
+}
+
+.employers {
+    margin: 0 auto;
+    width: 1440px;
+    min-height: 522px;
+    background-image: url("../imgs/employer.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 0 20px;
+}
+
+h2 {
+    margin-top: 126px;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 0.05px;
+    text-transform: uppercase;
+    color: #43806C;
+    margin-left: 120px;
+    margin-bottom: 0px;
+}
+
+.employers-title {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 46px;
+    color: #214E41;
+    margin-left: 120px;
+    width: 30%;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.employers-text {
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0.02px;
+    color: #757575;
+    margin-left: 120px;
+    width: 35%;
+    margin-top: 34px;
+    margin-bottom: 0px;
+}
+
+.employers-subtext {
+    display: block;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 18px;
+    letter-spacing: 0.02px;
+    color: #214E41;
+    margin-left: 120px;
+    margin-top: 24px;
+    border-bottom: 2px solid;
+    padding-bottom: 14px;
+    position: absolute;
+    text-decoration: none;
 }
