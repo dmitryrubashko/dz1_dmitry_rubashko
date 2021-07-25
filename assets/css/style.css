@@ -450,6 +450,7 @@ h1 {
 
 .employers {
     margin: 0 auto;
+    margin-bottom: 0px;
     width: 1440px;
     min-height: 522px;
     background-image: url("../imgs/employer.jpg");
@@ -507,4 +508,33 @@ h2 {
     padding-bottom: 14px;
     position: absolute;
     text-decoration: none;
+}
+
+.support {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 46px;
+    text-align: center;
+    color: #214E41;
+    margin-bottom: 0;
+}
+
+.sponsors {
+    margin-top: 120px;
+    min-height: 347px;
+}
+
+.sponsorspic {
+    margin-top: 115px;
+    display: flex;
+    text-align: center;
+}
+
+.sponsorslogo {
+    width: 20%;
+}
+
+.x {
+    border-bottom: 1px solid rgba(199, 199, 199, 0.37);;
 }
